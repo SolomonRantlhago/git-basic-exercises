@@ -1,0 +1,500 @@
+   55  cd desktop
+   56  cd My_Portfolio
+   57  ls
+   58  cd Traffic_fines
+   59  ls
+   60  cd Traffic_fines
+   61  pwd
+   62  ls
+   63  clear
+   64  ls
+   65  clear
+   66  ls
+   67  cd ..
+   68  ls
+   69  cd Traffic_fines
+   70  ls
+   71  clear
+   72  git init
+   73  git add .
+   74  git status
+   75  pwd
+   76  cd desktop
+   77  cd My_Portfolio
+   78  pwd
+   79  ls
+   80  cd Traffic_fines
+   81  ls
+   82  cd Traffic_fines
+   83  ls
+   84  clear
+   85  git init
+   86  git add .
+   87  clear
+   88  git init
+   89  git add .
+   90  git status
+   91  clear
+   92  git status
+   93  git commit -m "first commit"
+   94  clear
+   95  rm C:/Users/2017496114/Desktop/My_Portfolio/Traffic_fines/Traffic_fines/.git/index.lock
+   96  git status
+   97  git commit -m "First commit"
+   98  git remote add origin https://github.com/SolomonRantlhago/Traffic_Fines.git
+   99  git push -u origin main
+  100  git push -u origin master
+  101  clear
+  102  git log --oneline
+  103  git pull origin master
+  104  git log --oneline
+  105  pwd
+  106  cd desktop
+  107  cd My_Portfolio
+  108  cd RantlhagoSM_Assign1
+  109  cd Rantlhago_Assign1
+  110  clear
+  111  cd RantlhagoSM_Assign1
+  112  cd RantlhagoSM_Assign1
+  113  cd RantlhagoSM_Assign1
+  114  ls
+  115  clear
+  116  ls
+  117  clear
+  118  git init
+  119  git add .
+  120  pwd
+  121  cd desktop
+  122  cd My_Portfolio
+  123  cd RantlhagoSM_Assign1
+  124  cd RantlhagoSM_Assign1
+  125  cd RantlhagoSM_Assign1
+  126  cd RantlhagoSM_Assign1
+  127  git status
+  128  git add .
+  129  git status
+  130  git add
+  131  rm -rf .git
+  132  clear
+  133  ls
+  134  git init
+  135  git add .
+  136  git status
+  137  git config --local core.autocrlf false
+  138  git status
+  139  clear
+  140  git add .
+  141  git daemon --version
+  142  clear
+  143  git status
+  144  git commit -m "first commit"
+  145  clear
+  146  git remote add origin https://github.com/SolomonRantlhago/Book_Collection_Application.git
+  147  git push -u origin master
+  148  git log --oneline
+  149  git pull origin master
+  150  git log --oneline
+  151  clear
+  152  pwd
+  153  desktop
+  154  clear
+  155  cd desktop
+  156  cd My_Portfolio
+  157  cd desktop
+  158  cd My_Portfolio
+  159  cd Transaction_Grocerystore
+  160  cd Transaction_Grocerystore
+  161  ls
+  162  clear
+  163  git init
+  164  git add .
+  165  git status
+  166  git commit -m "first commit"
+  167  git remote add origin https://github.com/SolomonRantlhago/Cashier_Transaction_Application.git
+  168  git push -u origin master
+  169  git log --oneline
+  170  git pull origin master
+  171  git log --oneline
+  172  git status
+  173  clear
+  174  cd desktop
+  175  cd My_Portfolio
+  176  cd ATM_Transaction
+  177  ls
+  178  git init
+  179  git add .
+  180  git status
+  181  clear
+  182  git status
+  183  rm -rf .git
+  184  ls
+  185  git init
+  186  git add .
+  187  git status
+  188  git status
+  189  git add .
+  190  git status
+  191  git daemon --reuseaddr --base-path=/path/to/repositories /path/to/repositories
+  192  git status
+  193  git daemon --reuseaddr --base-path
+  194  ls
+  195  git add .
+  196  git status
+  197  rm -rf .git
+  198  cd desktop
+  199  cd Python_code
+  200  ls
+  201  git init
+  202  git add .
+  203  cd desktop
+  204  cd Python_code
+  205  ls
+  206  git status
+  207  rm -rf .git
+  208  git init
+  209  git add .
+  210  git status
+  211  rm -rf .git
+  212  cd desktop
+  213  cd Python_code
+  214  cd Exam1
+  215  ls
+  216  git init
+  217  git add Exam1
+  218  git status
+  219  git add Exam1.py
+  220  git status
+  221  rm -rf .git
+  222  cd desktop
+  223  cd Question4_Exam
+  224  cd Question4_Exam
+  225  ls
+  226  git init
+  227  git add .
+  228  git status
+  229  rm -rf .git
+  230  ls
+  231  git status
+  232  cd desktop
+  233  cd Python_code
+  234  git init
+  235  git add -f Exam1.py
+  236  git status
+  237  rm -rf .git
+  238  cd desktop
+  239  cd My_Portfolio
+  240  cd ATM_Transaction
+  241  ls
+  242  git init
+  243  git add -f .
+  244  git status
+  245  git commit -m "first commit"
+  246  git remote add origin https://github.com/SolomonRantlhago/ATM_Transaction_Application.git
+  247  git push -u origin master
+  248  git log --oneline
+  249  git pull origin master
+  250  git log --oneline
+  251  git status
+  252  cd desktop
+  253  cd My_Portfolio
+  254  cd SportsStore_Assign2_RantlhagoSM
+  255  cd SportsStore_Assign2_RantlhagoSM
+  256  cd SportsStore
+  257  ls
+  258  git init
+  259  git add .
+  260  cd desktop
+  261  cd My_Portfolio
+  262  cd SportsStore_Assign2_RantlhagoSM
+  263  cd SportsStore_Assign2_RantlhagoSM
+  264  cd SportsStore
+  265  git status
+  266  git add .
+  267  git status
+  268  clear
+  269  rm -rf .git
+  270  git init
+  271  git add .
+  272  git status
+  273  git commit -m "first commit"
+  274  git remote add origin https://github.com/SolomonRantlhago/SportsStore_App.git
+  275  git push -u origin master
+  276  git log --oneline
+  277  git push -u origin master
+  278  git log --oneline
+  279  clear
+  280  git push -u origin master
+  281  cd desktop
+  282  cd My_Portfolio
+  283  cd Rantlhago(2017496114)_Project1
+  284  ls
+  285  cd Rantlhago(2017496114)_Project1
+  286  cd Rantlhago_Project 1
+  287  clear
+  288  ls
+  289  cd 'Rantlhago(2017496114)_Project1'
+  290  cd 'Rantlhago(2017496114)_Project1'
+  291  cd Project1
+  292  cd Project1
+  293  ls
+  294  clear
+  295  git init
+  296  git add .
+  297  git status
+  298  git commit -m "first commit"
+  299  git remote add origin https://github.com/SolomonRantlhago/HR-System.git
+  300  git push -u origin master
+  301  clear
+  302  git log --oneline
+  303  git pull origin master
+  304  git log --oneline
+  305  clear
+  306  ls
+  307  ls /
+  308  clear
+  309  ls /data
+  310  ls /javascript
+  311  ls
+  312  ls /Javascript
+  313  ls /etc/perl
+  314  clear
+  315  ls /
+  316  mkdir Learning_unix
+  317  ls
+  318  clear
+  319  cd Learning_unix
+  320  cd..
+  321  cd ..
+  322  cd Learning_unix
+  323  mkdir commands
+  324  cd commands
+  325  cd ..
+  326  clear
+  327  cd commands
+  328  cd ../..
+  329  cd Learning_unix
+  330  cd commands
+  331  cd home
+  332  cd Desktop
+  333  cd MINGW64
+  334  cd ~
+  335  ls
+  336  cd desktop
+  337  clear
+  338  cd /
+  339  ls
+  340  cd desktop
+  341  cd ~
+  342  cd desktop
+  343  cd Learning_unix
+  344  cd commands
+  345  cd /Javascript
+  346  cd /Javascript
+  347  cd /Revision
+  348  cd /desktop/Javascript
+  349  clear
+  350  main
+  351  cd ~
+  352  cd ~/Learning_unix
+  353  cd ~
+  354  cd desktop
+  355  ls -l
+  356  ls -R
+  357  man ls
+  358  help
+  359  man -k
+  360  info
+  361  clear
+  362  cd Learning_unix
+  363  rmdir commands
+  364  ls
+  365  cd ..
+  366  cd Learning_unix/
+  367  mkdir git-basic-exercises
+  368  cd git-basic-exercises
+  369  ls -a
+  370  dir
+  371  ls
+  372  dir
+  373  ls -a
+  374  clear
+  375  git init
+  376  ls -a
+  377  dir
+  378  clear
+  379  git status
+  380  touch README.md
+  381  ls -a
+  382  git status
+  383  clear
+  384  git log
+  385  git status
+  386  clear
+  387  git add README.md
+  388  git status
+  389  git rm --cached README.md
+  390  git status
+  391  clear
+  392  git add README.md
+  393  git status
+  394  git commit -m "initial commit"
+  395  git log
+  396  q
+  397  clear
+  398  nano README.md
+  399  cat README.md
+  400  git status
+  401  git add .
+  402  git status
+  403  git commit -m "second commit"
+  404  git log
+  405  clear
+  406  nano README.md
+  407  cat README.md
+  408  git status
+  409  git add .
+  410  git status
+  411  clear
+  412  git commit -m "third commit"
+  413  git log
+  414  clear
+  415  git checkout 7e6416bc967d2cd31d4f743016aab98c93b8c391
+  416  cat README.md
+  417  git checkout master
+  418  clear
+  419  git branch
+  420  clear
+  421  git branch milkshake-flavours
+  422  git branch
+  423  git checkout milk-flavours
+  424  git checkout milkshake-flavours
+  425  git branch
+  426  clear
+  427  nano milkshakes.md
+  428  git status
+  429  git add .
+  430  git status
+  431  clear
+  432  git commit -m "added inital flavours"
+  433  git log
+  434  clear
+  435  git log
+  436  git checkout master
+  437  git log
+  438  clear
+  439  git branch history
+  440  git checkout history
+  441  git log
+  442  clear
+  443  git branch
+  444  git log
+  445  clear
+  446  ls
+  447  clear
+  448  git log
+  449  git branch
+  450  celar
+  451  clear
+  452  history > history.txt
+  453  git status
+  454  git add .
+  455  git status
+  456  clear
+  457  git commit -m "added history"
+  458  git log
+  459  git checkout milkshake-flavours
+  460  git log
+  461  clear
+  462  nano README.md
+  463  git status
+  464  git add README.md
+  465  git status
+  466  clear
+  467  git commit -m "random readme changes"
+  468  git checkout history
+  469  cat README.md
+  470  clear
+  471  git checkout milkshake-flavour
+  472  git checkout milkshake-flavours 
+  473  cat README.md 
+  474  clear
+  475  git checkout history 
+  476  cat README.md 
+  477  clear
+  478  rm README.md
+  479  echo "Hello world"
+  480  clear
+  481  echo "booya" > README.md
+  482  git status
+  483  git add README.md
+  484  git status
+  485  clear
+  486  git commit -m "rewrote readme"
+  487  git checkout master
+  488  clear
+  489  ls
+  490  git log
+  491  git checkout milkshake-flavours 
+  492  ls
+  493  gitlog
+  494  clear
+  495  git log
+  496  clear
+  497  git log
+  498  clear
+  499  git checkout history
+  500  git log
+  501  mkdir git-basic-exercises
+  502  cd git-basic-exercises
+  503  ls
+  504  ls-a
+  505  ls -a
+  506  clear
+  507  git init
+  508  ls -a
+  509  git status
+  510  clear
+  511  touch README.md
+  512  ls -a
+  513  git status
+  514  git log
+  515  clear
+  516  git add .
+  517  git status
+  518  git commit -m "initial commit"
+  519  git log
+  520  clear
+  521  nano README.md
+  522  cat README.md
+  523  git status
+  524  git add .
+  525  git status
+  526  git commit -m "second commit"
+  527  nano README.md
+  528  git status
+  529  git add .
+  530  git commit -m "third commit"
+  531  git log
+  532  clear
+  533  git branch milkshake-flavours
+  534  git checkout milkshake-flavours 
+  535  git log
+  536  clear
+  537  nano milkshakes.md
+  538  git status
+  539  git add .
+  540  git commit -m "added initial flavours"
+  541  clear
+  542  git log
+  543  git checkout master
+  544  git log
+  545  clear
+  546  git branch history
+  547  git branch
+  548  git log
+  549  clear
+  550  git checkout history
+  551  git branch
+  552  git log
+  553  clear
+  554  history > history.txt
